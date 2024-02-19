@@ -1,0 +1,8 @@
+Instrumenting Code------------------------------------------
+Test: tests/test1.c
+
+Done Instrumenting Code-------------------------------------
+
+Running Tests-------------------------------------------------
+tests/test1.c:6: Array Out of Bounds Error
+Done Running Tests--------------------------------------------

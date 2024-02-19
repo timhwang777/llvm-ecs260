@@ -1,0 +1,362 @@
+
+Instrumenting Code------------------------------------------
+Test: tests/test1.c
+
+Test: tests/test2.c
+
+Test: tests/test3.c
+
+Test: tests/test4.c
+
+Test: tests/test5.c
+
+Test: tests/test6.c
+
+Test: tests/test7.c
+
+Test: tests/test8.c
+
+Done Instrumenting Code-------------------------------------
+
+Running Tests-------------------------------------------------
+Array size: 3
+Index: 0
+Array size: 3
+Index: 1
+Array size: 3
+Index: 2
+Array size: 3
+Index: 3
+tests/test1.c:6: Array Out of Bounds Error.
+Array size: 3
+Index: 0
+Array size: 2
+Index: 0
+Array size: 3
+Index: 0
+Array size: 2
+Index: 1
+Array size: 3
+Index: 1
+Array size: 2
+Index: 0
+Array size: 3
+Index: 1
+Array size: 2
+Index: 1
+Array size: 3
+Index: 2
+Array size: 2
+Index: 0
+Array size: 3
+Index: 2
+Array size: 2
+Index: 1
+Array size: 3
+Index: 3
+tests/test2.c:7: Array Out of Bounds Error.
+Array size: 2
+Index: 0
+Array size: 3
+Index: 3
+tests/test2.c:7: Array Out of Bounds Error.
+Array size: 2
+Index: 1
+Array size: 3
+Index: -1
+tests/test3.c:6: Array Out of Bounds Error.
+Array size: 3
+Index: 0
+Array size: 3
+Index: 1
+Array size: 3
+Index: 2
+Array size: 4
+Index: 0
+Array size: 3
+Index: 0
+Array size: 4
+Index: 0
+Array size: 3
+Index: 1
+Array size: 4
+Index: 0
+Array size: 3
+Index: 2
+Array size: 4
+Index: 0
+Array size: 3
+Index: 3
+tests/test4.c:7: Array Out of Bounds Error.
+Array size: 4
+Index: 1
+Array size: 3
+Index: 0
+Array size: 4
+Index: 1
+Array size: 3
+Index: 1
+Array size: 4
+Index: 1
+Array size: 3
+Index: 2
+Array size: 4
+Index: 1
+Array size: 3
+Index: 3
+tests/test4.c:7: Array Out of Bounds Error.
+Array size: 4
+Index: 2
+Array size: 3
+Index: 0
+Array size: 4
+Index: 2
+Array size: 3
+Index: 1
+Array size: 4
+Index: 2
+Array size: 3
+Index: 2
+Array size: 4
+Index: 2
+Array size: 3
+Index: 3
+tests/test4.c:7: Array Out of Bounds Error.
+Array size: 4
+Index: 3
+Array size: 3
+Index: 0
+Array size: 4
+Index: 3
+Array size: 3
+Index: 1
+Array size: 4
+Index: 3
+Array size: 3
+Index: 2
+Array size: 4
+Index: 3
+Array size: 3
+Index: 3
+tests/test4.c:7: Array Out of Bounds Error.
+Array size: 3
+Index: 0
+Array size: 3
+Index: 0
+Array size: 2
+Index: 0
+Array size: 3
+Index: 0
+Array size: 3
+Index: 0
+Array size: 2
+Index: 1
+Array size: 3
+Index: 0
+Array size: 3
+Index: 0
+Array size: 2
+Index: 2
+tests/test5.c:8: Array Out of Bounds Error.
+Array size: 3
+Index: 0
+Array size: 3
+Index: 1
+Array size: 2
+Index: 0
+Array size: 3
+Index: 0
+Array size: 3
+Index: 1
+Array size: 2
+Index: 1
+Array size: 3
+Index: 0
+Array size: 3
+Index: 1
+Array size: 2
+Index: 2
+tests/test5.c:8: Array Out of Bounds Error.
+Array size: 3
+Index: 0
+Array size: 3
+Index: 2
+Array size: 2
+Index: 0
+Array size: 3
+Index: 0
+Array size: 3
+Index: 2
+Array size: 2
+Index: 1
+Array size: 3
+Index: 0
+Array size: 3
+Index: 2
+Array size: 2
+Index: 2
+tests/test5.c:8: Array Out of Bounds Error.
+Array size: 3
+Index: 1
+Array size: 3
+Index: 0
+Array size: 2
+Index: 0
+Array size: 3
+Index: 1
+Array size: 3
+Index: 0
+Array size: 2
+Index: 1
+Array size: 3
+Index: 1
+Array size: 3
+Index: 0
+Array size: 2
+Index: 2
+tests/test5.c:8: Array Out of Bounds Error.
+Array size: 3
+Index: 1
+Array size: 3
+Index: 1
+Array size: 2
+Index: 0
+Array size: 3
+Index: 1
+Array size: 3
+Index: 1
+Array size: 2
+Index: 1
+Array size: 3
+Index: 1
+Array size: 3
+Index: 1
+Array size: 2
+Index: 2
+tests/test5.c:8: Array Out of Bounds Error.
+Array size: 3
+Index: 1
+Array size: 3
+Index: 2
+Array size: 2
+Index: 0
+Array size: 3
+Index: 1
+Array size: 3
+Index: 2
+Array size: 2
+Index: 1
+Array size: 3
+Index: 1
+Array size: 3
+Index: 2
+Array size: 2
+Index: 2
+tests/test5.c:8: Array Out of Bounds Error.
+Array size: 3
+Index: 2
+Array size: 3
+Index: 0
+Array size: 2
+Index: 0
+Array size: 3
+Index: 2
+Array size: 3
+Index: 0
+Array size: 2
+Index: 1
+Array size: 3
+Index: 2
+Array size: 3
+Index: 0
+Array size: 2
+Index: 2
+tests/test5.c:8: Array Out of Bounds Error.
+Array size: 3
+Index: 2
+Array size: 3
+Index: 1
+Array size: 2
+Index: 0
+Array size: 3
+Index: 2
+Array size: 3
+Index: 1
+Array size: 2
+Index: 1
+Array size: 3
+Index: 2
+Array size: 3
+Index: 1
+Array size: 2
+Index: 2
+tests/test5.c:8: Array Out of Bounds Error.
+Array size: 3
+Index: 2
+Array size: 3
+Index: 2
+Array size: 2
+Index: 0
+Array size: 3
+Index: 2
+Array size: 3
+Index: 2
+Array size: 2
+Index: 1
+Array size: 3
+Index: 2
+Array size: 3
+Index: 2
+Array size: 2
+Index: 2
+tests/test5.c:8: Array Out of Bounds Error.
+Array size: 3
+Index: 0
+Array size: 3
+Index: 1
+Array size: 3
+Index: 2
+Array size: 3
+Index: 0
+Array size: 3
+Index: 1
+Array size: 3
+Index: 2
+Array size: 3
+Index: 3
+tests/test7.c:6: Array Out of Bounds Error.
+Array size: 3
+Index: 0
+Array size: 2
+Index: 0
+Array size: 3
+Index: 0
+Array size: 2
+Index: 1
+Array size: 3
+Index: 1
+Array size: 2
+Index: 0
+Array size: 3
+Index: 1
+Array size: 2
+Index: 1
+Array size: 3
+Index: 2
+Array size: 2
+Index: 0
+Array size: 3
+Index: 2
+Array size: 2
+Index: 1
+Array size: 3
+Index: 3
+tests/test8.c:7: Array Out of Bounds Error.
+Array size: 2
+Index: 0
+Array size: 3
+Index: 3
+tests/test8.c:7: Array Out of Bounds Error.
+Array size: 2
+Index: 1
+Done Running Tests--------------------------------------------
